@@ -1,1 +1,7 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8191908&assignment_repo_type=AssignmentRepo)
+# Jogo da memória com JavaScript
+
+Projeto desenvolvido durante o bootcamp React Web Developer da Digital Innovation One.
+
+**Objetivo:** aprender efeitos 3D no CSS, lógica de programação com condicionais, Immediately Invoked Function Expression e manipulação de Arrays.
+
+<img src="https://github.com/isabelavs/dio-jogo-da-memoria/blob/master/img/jogo-da-memoria.gif" alt="gif do jogo">
